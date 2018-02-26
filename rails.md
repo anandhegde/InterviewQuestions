@@ -18,6 +18,7 @@
 		- after_create
 		- after_save
 		- after_commit/after_rollback
+		
 		**Updating an Object**
 		- before_validation
 		- after_validation
@@ -28,6 +29,7 @@
 		- after_update
 		- after_save
 		- after_commit/after_rollback
+		
 		**Destroying an Object**
 		- before_destroy
 		- around_destroy
